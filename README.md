@@ -1,7 +1,9 @@
 <<<<<<< HEAD
+
 # tugas-bungamajemuk-butri-SMAXAVERIUS3PALEMBANG
-untuk warga xavega
-=======
+
+# untuk warga xavega
+
 # 📊 Tugas Bunga Majemuk
 
 > **SMA Xaverius 3 Palembang** · Matematika Kelas XI Semester 2  
@@ -12,14 +14,14 @@ untuk warga xavega
 
 ## 🏫 Informasi Tugas
 
-| Keterangan | Detail |
-|---|---|
-| Sekolah | SMA Xaverius 3 Palembang |
-| Mata Pelajaran | Matematika |
-| Kelas | XI (11) Semester 2 |
-| Materi | Bunga Majemuk |
-| Tanggal | 5 Oktober 2025 |
-| Hasil | ★ Nilai Sempurna |
+| Keterangan     | Detail                   |
+| -------------- | ------------------------ |
+| Sekolah        | SMA Xaverius 3 Palembang |
+| Mata Pelajaran | Matematika               |
+| Kelas          | XI (11) Semester 2       |
+| Materi         | Bunga Majemuk            |
+| Tanggal        | 5 Oktober 2025           |
+| Hasil          | ★ Nilai Sempurna         |
 
 ---
 
@@ -67,15 +69,16 @@ Bunga         = Piutang Awal  ×  % Bunga
 
 ### Data Soal (Tugas I)
 
-| Data | Nilai |
-|---|---|
-| Piutang Awal | Rp 12.350.000 |
-| Anuitas | Rp 1.450.000 |
-| Bunga per Periode | 2,1% = 0,021 |
+| Data              | Nilai         |
+| ----------------- | ------------- |
+| Piutang Awal      | Rp 12.350.000 |
+| Anuitas           | Rp 1.450.000  |
+| Bunga per Periode | 2,1% = 0,021  |
 
 ### Langkah Pengerjaan
 
 **Rumus yang digunakan:**
+
 - `Bunga = Piutang Awal × 0,021`
 - `Angsuran (Pokok) = Anuitas − Bunga`
 - `Sisa = Piutang Awal − Angsuran (Pokok)`
@@ -84,18 +87,18 @@ Bunga         = Piutang Awal  ×  % Bunga
 
 ### Tabel Angsuran (Rekonstruksi)
 
-| No | Piutang Awal | Bunga (2,1%) | Angsuran | Sisa |
-|:---:|---:|---:|---:|---:|
-| 1 | 12.350.000 | 259.350 | 1.190.650 | 11.159.350 |
-| 2 | 11.159.350 | 234.346 | 1.215.654 | 9.943.696 |
-| 3 | 9.943.696 | 208.818 | 1.241.182 | 8.702.514 |
-| 4 | 8.702.514 | 182.753 | 1.267.247 | 7.435.267 |
-| 5 | 7.435.267 | 156.141 | 1.293.859 | 6.141.408 |
-| 6 | 6.141.408 | 128.970 | 1.321.030 | 4.820.378 |
-| 7 | 4.820.378 | 101.228 | 1.348.772 | 3.471.606 |
-| 8 | 3.471.606 | 72.904 | 1.377.096 | 2.094.510 |
-| 9 | 2.094.510 | 43.985 | 1.406.015 | 688.495 |
-| 10 | 688.495 | 14.458 | 688.495 | **0 ✓** |
+| No  | Piutang Awal | Bunga (2,1%) |  Angsuran |       Sisa |
+| :-: | -----------: | -----------: | --------: | ---------: |
+|  1  |   12.350.000 |      259.350 | 1.190.650 | 11.159.350 |
+|  2  |   11.159.350 |      234.346 | 1.215.654 |  9.943.696 |
+|  3  |    9.943.696 |      208.818 | 1.241.182 |  8.702.514 |
+|  4  |    8.702.514 |      182.753 | 1.267.247 |  7.435.267 |
+|  5  |    7.435.267 |      156.141 | 1.293.859 |  6.141.408 |
+|  6  |    6.141.408 |      128.970 | 1.321.030 |  4.820.378 |
+|  7  |    4.820.378 |      101.228 | 1.348.772 |  3.471.606 |
+|  8  |    3.471.606 |       72.904 | 1.377.096 |  2.094.510 |
+|  9  |    2.094.510 |       43.985 | 1.406.015 |    688.495 |
+| 10  |      688.495 |       14.458 |   688.495 |    **0 ✓** |
 
 > Periode ke-10 adalah angsuran terakhir (lunas). Angsuran disesuaikan dengan sisa piutang.
 
@@ -105,16 +108,16 @@ Bunga         = Piutang Awal  ×  % Bunga
 
 Tugas ini dikerjakan dan mendapat nilai sempurna oleh **6 siswa**:
 
-| No | Nama | Status |
-|:---:|---|:---:|
-| 1 | Saya | ★ Sempurna |
-| 2 | Teman 1 | ★ Sempurna |
-| 3 | Teman 2 | ★ Sempurna |
-| 4 | Teman 3 | ★ Sempurna |
-| 5 | Teman 4 | ★ Sempurna |
-| 6 | Teman 5 | ★ Sempurna |
+| No  | Nama    |   Status   |
+| :-: | ------- | :--------: |
+|  1  | Saya    | ★ Sempurna |
+|  2  | Teman 1 | ★ Sempurna |
+|  3  | Teman 2 | ★ Sempurna |
+|  4  | Teman 3 | ★ Sempurna |
+|  5  | Teman 4 | ★ Sempurna |
+|  6  | Teman 5 | ★ Sempurna |
 
-> ✏️ *Ganti nama-nama di atas dengan nama asli anggota kelompok.*
+> ✏️ _Ganti nama-nama di atas dengan nama asli anggota kelompok._
 
 ---
 
@@ -134,7 +137,7 @@ Tugas ini dikerjakan dan mendapat nilai sempurna oleh **6 siswa**:
 <div align="center">
 
 **SMA Xaverius 3 Palembang** · Matematika XI Semester 2 · 2025  
-*XAVEGA, ONE STEP AHEAD!*
+_XAVEGA, ONE STEP AHEAD!_
 
 </div>
 >>>>>>> ae5276a (first commit)
