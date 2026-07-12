@@ -1,15 +1,14 @@
-<<<<<<< HEAD
-
 # tugas-bungamajemuk-butri-SMAXAVERIUS3PALEMBANG
 
-# untuk warga xavega
+untuk warga xavega
 
 # 📊 Tugas Bunga Majemuk
 
-> **SMA Xaverius 3 Palembang** · Matematika Kelas XI Semester 2  
-> 📅 Tanggal: 5 Oktober 2025  
+> **SMA Xaverius 3 Palembang** · Matematika Kelas XI Semester 2
+> 📅 Tanggal: 5 Oktober 2025
 > ✅ Nilai: **Sempurna** — diraih oleh saya dan 5 teman saya 😏😏😏
-> Notes : Outputnya bisa kirim ke CGPT/CLAUDE/GROK agar outputnya berubah menjadi tabel dan lebih mudah dilihat 🤫 + 🧠
+> Notes: Outputnya bisa kirim ke CGPT/CLAUDE/GROK agar outputnya berubah menjadi tabel dan lebih mudah dilihat 🤫 + 🧠
+
 ---
 
 ## 🏫 Informasi Tugas
@@ -49,7 +48,7 @@ Bunga         = Piutang Awal  ×  % Bunga
 
 ![Catatan data piutang kelas](tugas_catatan_kelas.jpeg)
 
-> Catatan kelas berisi data piutang untuk kelompok Cowok dan Cewek  
+> Catatan kelas berisi data piutang untuk kelompok Cowok dan Cewek
 > masing-masing dengan 3 absensi (Absen 1, 2, 3) beserta nilai Piutang, Anuitas, dan % Bunga.
 
 ---
@@ -58,7 +57,7 @@ Bunga         = Piutang Awal  ×  % Bunga
 
 ![Tabel angsuran bunga majemuk Tugas I](tugas_tabel_angsuran.jpeg)
 
-> Tabel angsuran lengkap Tugas I dengan Piutang Rp 12.350.000,  
+> Tabel angsuran lengkap Tugas I dengan Piutang Rp 12.350.000,
 > Anuitas Rp 1.450.000, dan Bunga 2,1% per periode.
 
 ---
@@ -87,18 +86,18 @@ Bunga         = Piutang Awal  ×  % Bunga
 
 ### Tabel Angsuran (Rekonstruksi)
 
-| No  | Piutang Awal | Bunga (2,1%) |  Angsuran |       Sisa |
+| No  | Piutang Awal | Bunga (2,1%) | Angsuran  |       Sisa |
 | :-: | -----------: | -----------: | --------: | ---------: |
-|  1  |   12.350.000 |      259.350 | 1.190.650 | 11.159.350 |
-|  2  |   11.159.350 |      234.346 | 1.215.654 |  9.943.696 |
-|  3  |    9.943.696 |      208.818 | 1.241.182 |  8.702.514 |
-|  4  |    8.702.514 |      182.753 | 1.267.247 |  7.435.267 |
-|  5  |    7.435.267 |      156.141 | 1.293.859 |  6.141.408 |
-|  6  |    6.141.408 |      128.970 | 1.321.030 |  4.820.378 |
-|  7  |    4.820.378 |      101.228 | 1.348.772 |  3.471.606 |
-|  8  |    3.471.606 |       72.904 | 1.377.096 |  2.094.510 |
-|  9  |    2.094.510 |       43.985 | 1.406.015 |    688.495 |
-| 10  |      688.495 |       14.458 |   688.495 |    **0 ✓** |
+|  1  |   12.350.000 |       259.350 | 1.190.650 | 11.159.350 |
+|  2  |   11.159.350 |       234.346 | 1.215.654 |  9.943.696 |
+|  3  |    9.943.696 |       208.818 | 1.241.182 |  8.702.514 |
+|  4  |    8.702.514 |       182.753 | 1.267.247 |  7.435.267 |
+|  5  |    7.435.267 |       156.141 | 1.293.859 |  6.141.408 |
+|  6  |    6.141.408 |       128.970 | 1.321.030 |  4.820.378 |
+|  7  |    4.820.378 |       101.228 | 1.348.772 |  3.471.606 |
+|  8  |    3.471.606 |        72.904 | 1.377.096 |  2.094.510 |
+|  9  |    2.094.510 |        43.985 | 1.406.015 |    688.495 |
+| 10  |      688.495 |        14.458 |   688.495 |    **0 ✓** |
 
 > Periode ke-10 adalah angsuran terakhir (lunas). Angsuran disesuaikan dengan sisa piutang.
 
@@ -136,8 +135,7 @@ Tugas ini dikerjakan dan mendapat nilai sempurna oleh **6 siswa**:
 
 <div align="center">
 
-**SMA Xaverius 3 Palembang** · Matematika XI Semester 2 · 2025  
+**SMA Xaverius 3 Palembang** · Matematika XI Semester 2 · 2025
 _XAVEGA, ONE STEP AHEAD!_
 
 </div>
->>>>>>> ae5276a (first commit)
