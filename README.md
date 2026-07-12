@@ -8,7 +8,7 @@
 
 > **SMA Xaverius 3 Palembang** · Matematika Kelas XI Semester 2  
 > 📅 Tanggal: 5 Oktober 2025  
-> ✅ Nilai: **Sempurna** — diraih oleh saya dan 5 teman saya
+> ✅ Nilai: **Sempurna** — diraih oleh saya dan 5 teman saya 😏😏😏
 
 ---
 
