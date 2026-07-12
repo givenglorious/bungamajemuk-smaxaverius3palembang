@@ -5,8 +5,11 @@ untuk warga xavega
 # 📊 Tugas Bunga Majemuk
 
 > **SMA Xaverius 3 Palembang** · Matematika Kelas XI Semester 2
+>
 > 📅 Tanggal: 5 Oktober 2025
+>
 > ✅ Nilai: **Sempurna** — diraih oleh saya dan 5 teman saya 😏😏😏
+>
 > Notes: Outputnya bisa kirim ke CGPT/CLAUDE/GROK agar outputnya berubah menjadi tabel dan lebih mudah dilihat 🤫 + 🧠
 
 ---
